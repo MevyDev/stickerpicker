@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "goblin_stickers.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
